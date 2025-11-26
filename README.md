@@ -6,29 +6,30 @@ To design and implement a digital clock circuit using an oscillator as the time-
 
 # COMPONENT REQUIRED
 
-![COMPONENT](https://github.com/user-attachments/assets/56833273-c854-4ad4-a3ab-18f6deec50d5)
+
 
 # THEORY 
+<img width="1600" height="846" alt="image" src="https://github.com/user-attachments/assets/1f0e6f62-f368-463b-a0d0-1284b4c3ba6c" />
+<img width="798" height="1459" alt="image" src="https://github.com/user-attachments/assets/128afe43-66c9-495e-a7cf-41637426eaef" />
 
-![COMPONENT](https://github.com/user-attachments/assets/89705e02-8f46-4761-9a24-627521f72bc2)
-![THEORY 2](https://github.com/user-attachments/assets/e385a3b5-42a1-425c-94dd-2b14e974fab5)
 
 
 # PROCEDURE 
 ![PRIOCEDURE](https://github.com/user-attachments/assets/8bc44153-6160-42c7-80ff-0e38383f34e0)
 
 # BLOCK DIAGRAM
+<img width="1600" height="548" alt="image" src="https://github.com/user-attachments/assets/8877d5c7-370c-41b5-a0f1-858a96428549" />
 
-![WhatsApp Image 2025-11-21 at 20 38 04_55a52288](https://github.com/user-attachments/assets/e683e72f-c552-455b-908d-96ce6a130c6a)
 
 
 # OBSERVATION 
 
-![WhatsApp Image 2025-11-21 at 20 38 05_a3c6ee75](https://github.com/user-attachments/assets/9c8dbb7e-a829-4a11-ace4-29e5c2561004)
+<img width="1600" height="665" alt="image" src="https://github.com/user-attachments/assets/ff205217-c7c1-4a5f-b125-b436a925777b" />
+
 
 
 # RESULT
+<img width="1600" height="599" alt="image" src="https://github.com/user-attachments/assets/24ff2108-6c64-4035-bf85-29654fe1be5e" />
 
-![RESULT](https://github.com/user-attachments/assets/e0766eed-8ec8-49d0-bccb-955f6f2249ed)
 
 
